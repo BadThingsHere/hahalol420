@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Anticheat has detected that you are using a executor that can get you banned.")
+game.Players.LocalPlayer:Kick("Our anti-cheat system has detected the use of an executor, which may result in a ban.")
